@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tenders-in
 name: Tenders in Ukraine
 description: "Get data for procurements in Ukraine in JSON format"
 url: https://tenders.guru/ua/api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
