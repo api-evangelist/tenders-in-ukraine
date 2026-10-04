@@ -39,7 +39,6 @@ apis:
   - name: Tenders in Ukraine
     description: "Get data for procurements in Ukraine in JSON format"
     humanURL: https://tenders.guru/ua/api
-    baseURL: https://tenders.guru/ua/api
     tags:
       - Business
     properties:
